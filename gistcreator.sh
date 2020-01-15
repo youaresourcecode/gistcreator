@@ -10,7 +10,7 @@ clear
 #Version 2, creamos un fichero y hacemos que el comando lea
 #el contenido del fichero y lo suba y lo inserte como el $1
 
-#TODO: comprobar que el fichero exista
+#TODO: comprobamos si el fichero existe
 #contenido=$(cat $1)
 while read LINE
   do 
